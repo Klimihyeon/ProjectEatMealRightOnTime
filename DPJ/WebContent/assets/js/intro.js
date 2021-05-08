@@ -81,15 +81,18 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/gimbok.jpg': 'center',
-							'images/gimpi.jpg': 'center',
-							'images/sam.jpg': 'center',
-							'images/budae.jpg': 'center',
-							'images/care.jpg': 'center'
+							'/DPJ/assets/img/mainImg/don.png': 'center',
+							'/DPJ/assets/img/mainImg/jok.jpg': 'center',
+							'/DPJ/assets/img/mainImg/gogi.jpg': 'center',
+							'/DPJ/assets/img/mainImg/yang.png': 'center',
+							'/DPJ/assets/img/mainImg/dak.png': 'center',
+							'/DPJ/assets/img/mainImg/bibim.png': 'center',
+							'/DPJ/assets/img/mainImg/gal.png': 'center',
+							'/DPJ/assets/img/mainImg/gimbok.jpg': 'center',
 						},
 
 					// Delay.
-						delay: 6000
+						delay: 5000
 
 				};
 
